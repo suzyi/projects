@@ -9,3 +9,5 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
 ### counting the numbers of people in a given pictures
 Refer to [Xiongfeng's ICML-2017 paper]
+### Play Breakout games
++ [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)

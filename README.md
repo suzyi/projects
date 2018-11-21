@@ -11,3 +11,4 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 Refer to [Xiongfeng's ICML-2017 paper]
 ### Play Breakout games
 + [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)
++ [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)

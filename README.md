@@ -6,6 +6,7 @@ I know how to achive digits recognition using Tensorflow on python. However, for
 color transformation to make photo look like old or artistic, e.g. [projects here](https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python).
 ### face detection
 Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_recognition). For tensorflow-based face detection tutorial, please refer to [tensorflow/model](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md). and [tensorflow/models/tree/master/research/object_detection](https://github.com/tensorflow/models/tree/master/research/object_detection).
++ [official quick start examples](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb). Unable to run in my single-gpu (geForce 1050 ti, 4GB) equiped computer, but a single geForce 1080 (with a memory of 8GB) is capable of running this program.
 + [intro](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html) to tensorflow's object detection API, and the author's [video-based object detection](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html)
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
 ### counting the numbers of people in a given pictures

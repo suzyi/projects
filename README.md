@@ -12,7 +12,7 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
 ### counting the numbers of people in a given pictures
 + Refer to [Xiongfeng's ICML-2017 paper]
-+ [github-implementaion-with demo](https://github.com/ahmetozlu/tensorflow_object_counting_api) using tf API
++ [github-implementaion-with demo](https://github.com/ahmetozlu/tensorflow_object_counting_api) using TensorFlow Object Counting API
 ### Play Breakout games
 + [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)
 + [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)

@@ -13,6 +13,7 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 ### counting the numbers of people in a given pictures
 + Refer to [Xiongfeng's ICML-2017 paper]
 + [github-implementaion](https://github.com/ahmetozlu/tensorflow_object_counting_api) using TensorFlow Object Counting API. Concretely, [tf-based vehicle counting](https://github.com/ahmetozlu/vehicle_counting_tensorflow).
++ [counting target object "person" in a given picture](https://github.com/ahmetozlu/tensorflow_object_counting_api/blob/master/real_time_counting_targeted_object.py)
 ### Play Breakout games
 + [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)
 + [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)

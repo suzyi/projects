@@ -18,3 +18,5 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 ### Play Breakout games
 + [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)
 + [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)
+### lasso solver
+This project should be designed to implement lasso solver via sub-gradient descent.

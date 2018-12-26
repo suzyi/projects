@@ -10,6 +10,7 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + [intro and tutorial](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html) to tensorflow's object detection API, which is much easier than official guide described in last item. And the author's [video-based object detection](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb).
 + for many pre- and well-trained cocodataset-based model, see [here](https://github.com/tensorflow/models/blob/477ed41e7e4e8a8443bc633846eb01e2182dc68a/object_detection/g3doc/detection_model_zoo.md) for their information.
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
++ A complete project should satisfy: First, could be installed on ubuntu and be called by python. Second, coulded be installed on android.
 ### counting the numbers of people in a given pictures (done at Dec 19, 2018.)
 + Refer to [Xiongfeng's ICML-2017 paper]
 + [github-implementaion](https://github.com/ahmetozlu/tensorflow_object_counting_api) using TensorFlow Object Counting API. Concretely, [tf-based vehicle counting](https://github.com/ahmetozlu/vehicle_counting_tensorflow).

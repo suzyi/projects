@@ -21,3 +21,5 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)
 ### lasso solver (Dec 26, 108 - )
 This project should be designed to implement lasso solver via sub-gradient descent.
+### Deep learning in artistic style
+News about an implementation of [Makoto Shinkai's and Hayao Miyazaki's tyle](https://www.jiqizhixin.com/articles/CVPR2018-CartoonGAN), from CVPR's paper.

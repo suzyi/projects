@@ -13,6 +13,7 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + A complete project should satisfy: First, could be installed on ubuntu and be called by python. Second, coulded be installed on android.
 ### counting the numbers of people in a given pictures (done at Dec 19, 2018.)
 | Date | codes |
+| ----- | ----- |
 | Dec 19, 2018 | [Simple demo of object-counting using well-trained model](https://github.com/suzyi/projects/blob/master/object-counting/object-counting.ipynb) |
 ### Play Breakout games
 + [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)

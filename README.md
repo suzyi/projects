@@ -12,11 +12,8 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
 + A complete project should satisfy: First, could be installed on ubuntu and be called by python. Second, coulded be installed on android.
 ### counting the numbers of people in a given pictures (done at Dec 19, 2018.)
-**Refereces**
-+ Refer to [Xiongfeng's ICML-2017 paper]
-+ [github-implementaion](https://github.com/ahmetozlu/tensorflow_object_counting_api) using TensorFlow Object Counting API. Concretely, [tf-based vehicle counting](https://github.com/ahmetozlu/vehicle_counting_tensorflow).
-+ [counting target object "person" in a given picture](https://github.com/ahmetozlu/tensorflow_object_counting_api/blob/master/real_time_counting_targeted_object.py)
-+ One should note that the definition of `visualize_boxes_and_labels_on_image_array` is quite different between [official's](https://github.com/tensorflow/models/blob/master/research/object_detection/utils/visualization_utils.py) and [ahmetozlu's](https://github.com/ahmetozlu/tensorflow_object_counting_api/blob/master/utils/visualization_utils.py) such as the later has the input attribute of "targeted_objects".
+| Date | codes |
+| Dec 19, 2018 | [Simple demo of object-counting using well-trained model](https://github.com/suzyi/projects/blob/master/object-counting/object-counting.ipynb) |
 ### Play Breakout games
 + [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)
 + [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)

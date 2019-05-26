@@ -12,6 +12,7 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
 + A complete project should satisfy: First, could be installed on ubuntu and be called by python. Second, coulded be installed on android.
 ### counting the numbers of people in a given pictures (done at Dec 19, 2018.)
+**Refereces**
 + Refer to [Xiongfeng's ICML-2017 paper]
 + [github-implementaion](https://github.com/ahmetozlu/tensorflow_object_counting_api) using TensorFlow Object Counting API. Concretely, [tf-based vehicle counting](https://github.com/ahmetozlu/vehicle_counting_tensorflow).
 + [counting target object "person" in a given picture](https://github.com/ahmetozlu/tensorflow_object_counting_api/blob/master/real_time_counting_targeted_object.py)

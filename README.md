@@ -11,7 +11,7 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 + for many pre- and well-trained cocodataset-based model, see [here](https://github.com/tensorflow/models/blob/477ed41e7e4e8a8443bc633846eb01e2182dc68a/object_detection/g3doc/detection_model_zoo.md) for their information.
 + running well-trained model on android. [running_on_mobile_tensorflowlite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)
 + A complete project should satisfy: First, could be installed on ubuntu and be called by python. Second, coulded be installed on android.
-### counting the numbers of people in a given pictures (done at Dec 19, 2018.)
+### counting the numbers of objects in a given picture
 | Date | codes |
 | ----- | ----- |
 | Dec 19, 2018 | [Simple demo of object-counting using well-trained model](https://github.com/suzyi/projects/blob/master/object-counting/object-counting.ipynb) |

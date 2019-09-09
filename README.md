@@ -1,9 +1,5 @@
-# projects
+# Projects-Focus on Just One Thing: Face Detection
 It's Oct 5, 2018, Friday evening. I begin to make some projects to ensure I have something to talk about in future job hunting.
-### Hand-writting digits recognition
-I know how to achive digits recognition using Tensorflow on python. However, for real application, you got to make it work on your hand phone, with camera scan the digits on a paper and it can be recognized on your android phone.
-### color transformation
-color transformation to make photo look like old or artistic, e.g. [projects here](https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python).
 ### face detection
 Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_recognition). For tensorflow-based face detection tutorial, please refer to [tensorflow/model](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md). and [tensorflow/models/tree/master/research/object_detection](https://github.com/tensorflow/models/tree/master/research/object_detection).
 + [official quick start examples](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb). Unable to run in my single-gpu (geForce 1050 ti, 4GB) equiped computer, but a single geForce 1080 (with a memory of 8GB) is capable of running this program. However, by preventing tensorflow from using GPU, the computer has enough memory to support running the code.
@@ -15,10 +11,3 @@ Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_
 | Date | codes |
 | ----- | ----- |
 | Dec 19, 2018 | [Simple demo of object-counting using well-trained model](https://github.com/suzyi/projects/blob/master/object-counting/object-counting.ipynb) |
-### Play Breakout games
-+ [Tensorflow deep q-learning of Breakout game](https://github.com/devsisters/DQN-tensorflow)
-+ [Deepmind's code]() and [paper](https://www.nature.com/articles/nature14236)
-### lasso solver (Dec 26, 108 - )
-This project should be designed to implement lasso solver via sub-gradient descent.
-### Deep learning in artistic style
-News about an implementation of [Makoto Shinkai's and Hayao Miyazaki's tyle](https://www.jiqizhixin.com/articles/CVPR2018-CartoonGAN), from CVPR's paper.

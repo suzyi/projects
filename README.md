@@ -1,6 +1,6 @@
 # Projects-Focus on Just One Thing: Face Detection, no playing games, no color transform etc.
 It's Oct 5, 2018, Friday evening. I begin to make some projects to ensure I have something to talk about in future job hunting.
-### face detection
+### face detection->视频人脸跟踪
 Refer to [ageitgey's face recognition project](https://github.com/ageitgey/face_recognition). For tensorflow-based face detection tutorial, please refer to [tensorflow/model](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md). and [tensorflow/models/tree/master/research/object_detection](https://github.com/tensorflow/models/tree/master/research/object_detection).
 + [official quick start examples](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb). Unable to run in my single-gpu (geForce 1050 ti, 4GB) equiped computer, but a single geForce 1080 (with a memory of 8GB) is capable of running this program. However, by preventing tensorflow from using GPU, the computer has enough memory to support running the code.
 + [intro and tutorial](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html) to tensorflow's object detection API, which is much easier than official guide described in last item. And the author's [video-based object detection](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb).
